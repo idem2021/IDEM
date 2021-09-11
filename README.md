@@ -1,2 +1,2 @@
 # IDEM
-Implementación de una IDE mediante AcuGis
+Implementación de una IDE mediante AcuGis/Geonode
